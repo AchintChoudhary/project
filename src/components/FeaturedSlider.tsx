@@ -14,7 +14,7 @@ const FeaturedSlider: React.FC = () => {
     {
       title: 'Rajwada Palace Heritage Walk',
       description: 'Discover the rich history of the Holkar dynasty at this magnificent seven-story palace.',
-      image: 'https://images.pexels.com/photos/2414440/pexels-photo-2414440.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://www.madhyapradeshdmc.com/images/me_rajwada-palace_mp.webp',
       category: 'Heritage',
     },
     {

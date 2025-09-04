@@ -6,7 +6,7 @@ const Places: React.FC = () => {
     {
       title: 'Rajwada Palace',
       description: 'Magnificent seven-story palace showcasing Holkar dynasty architecture',
-      image: 'https://images.pexels.com/photos/2414440/pexels-photo-2414440.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://www.madhyapradeshdmc.com/images/me_rajwada-palace_mp.webp',
       rating: 4.6,
       visitTime: '1-2 hours',
       category: 'Heritage',
