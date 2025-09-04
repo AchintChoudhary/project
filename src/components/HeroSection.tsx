@@ -13,7 +13,7 @@ const HeroSection: React.FC = () => {
   return (
     <section className="relative h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image with Parallax */}
-      <div 
+      <div  
         className="absolute inset-0 z-0"
         style={{
           backgroundImage:  `url(${fortImg})`,
